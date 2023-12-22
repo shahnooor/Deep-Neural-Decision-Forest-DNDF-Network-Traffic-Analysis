@@ -1,0 +1,2 @@
+# Deep-Neural-Decision-Forest-DNDF-Network-Traffic-Analysis
+. For the examination of network traffic, we made use of the most recent CICIDS2017 dataset. The findings of the experiment that used DNDF for intrusion detection systems demonstrated that the suggested model has the potential to generate fruitful outcomes through the generation of latent representations inside the hidden layers of a deep network.
